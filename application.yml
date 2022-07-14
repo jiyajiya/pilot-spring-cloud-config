@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 # 1 days
-  secret: ibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0-application
+  secret: '{cipher}AQB1FTYX6PA3+yQeZc8lmgwVrgOEf9PZsxcQlcB1dGQ/ajX6FK1BXfTESpVyAxe/XCneKDGyLTRTUWAd4Jcg4S0fRRg+DkRqdTli2l0Iy6qAbLwC5NBjxU229IYWVMRR+l+dbKLJHcJZPbAJDh84m35Hw15wPMx0bHu28Nt5LF/PpOd8JPN0MOMnW630iSdOobKHlezTKo60mUcir8cJsT2uN+jp90mhHFqdCVcxMPPDbcDx1j3fBTEsCVyWsY/WPys9ogtAo+u1rtcIcMNtPSLfRHygQ/vlKmeM9GFoUP+a1zGfH9/Jmm7/yf5PAuNSEzj09PLble8F6bTE4WStYRgVnvefgkcOcZKxEI6Z0wpUkSKMt75FD+/XptHJNd3k4U8vu0YVaRina7h/mSbuYp2y/FSiVqGVe55ho4qy37M9sjqx+ws/Hg0pLGteHAnrB88NltUr2jNQAamxpcS98jAN'
 
 gateway:
   ip: 192.168.0.11

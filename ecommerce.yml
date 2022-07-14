@@ -1,6 +1,0 @@
-token:
-  expiration_time: 86400000 # 1 days
-  secret: ibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0-default
-
-gateway:
-  ip: 192.168.0.11
