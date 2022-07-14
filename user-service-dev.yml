@@ -4,4 +4,6 @@ spring:
     url: jdbc:h2:mem:testdb
     username: sa
     password: '{cipher}AQAAkWXz3+qRorfGG/1wpNj41tpHxwvHIYZGDqgLpH809PoGH1LHAWrr7WcYUvZ7FjSVnnv1E05Y0uruyqvT9PA8FjwVLMdMfP4hatmpe9yOVY72nkXP8ViV3M/s+f9J/4UsbC7/WtFHbX6p1GcVpz0hiqgH3vSmCZ+Arhz3hAcFxQTLRvcBSo0NDNXYnocMMXA5YLLXbVqP+D4WPFnJPLlLW6J2fHHMTu1Qa4SFVAOqviqj0dASckU2QuXlUT2qZE8e1QHf79eLxOz/suNX7SUjZWBAq5oZqEsVTtpbEnRW1Lyjo75Smw+2E5hMaNo0d64o+i5T57j+nwQM02YuHKcdvIcBM6iWYvMEI4dlknTuDcqfFh4FsY0Pdor2WktGN4w='
-    
+
+order_service:
+  url: http://127.0.0.1:8000/order-service/%s/orders    
